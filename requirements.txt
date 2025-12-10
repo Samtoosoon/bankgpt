@@ -1,0 +1,17 @@
+streamlit
+chromadb
+sentence-transformers
+transformers
+google-generativeai
+pypdf
+tqdm
+langdetect
+speechrecognition
+pydub
+numpy
+python-multipart
+python-dotenv
+streamlit-mic-recorder
+Pillow
+pytesseract
+fpdf

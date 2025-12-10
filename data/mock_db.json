@@ -1,0 +1,37 @@
+{
+  "9876543210": {
+    "name": "Amit Kumar",
+    "credit_score": 780,
+    "income": 65000,
+    "blacklisted": false,
+    "approved_amount": 1200000
+  },
+  "9998887776": {
+    "name": "Neha Singh",
+    "credit_score": 710,
+    "income": 48000,
+    "blacklisted": false,
+    "approved_amount": 800000
+  },
+  "8887776665": {
+    "name": "Ravi Sharma",
+    "credit_score": 640,
+    "income": 40000,
+    "blacklisted": true,
+    "approved_amount": 0
+  },
+  "7776665554": {
+    "name": "Priya Nair",
+    "credit_score": 590,
+    "income": 32000,
+    "blacklisted": true,
+    "approved_amount": 0
+  },
+  "6665554443": {
+    "name": "Sanjay Verma",
+    "credit_score": 610,
+    "income": 35000,
+    "blacklisted": true,
+    "approved_amount": 0
+  }
+}
