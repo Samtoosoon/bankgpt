@@ -1,5 +1,3 @@
-Below is a **clean, structured, production-ready Markdown (.md) file** for your *BankGPT: Conversation-Driven Loan Processor* documentation.
-You can **copy–paste directly into a `.md` file** (e.g., `README.md`).
 
 ---
 
